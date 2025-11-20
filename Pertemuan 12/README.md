@@ -11,7 +11,8 @@ embedding.
 - MMengevaluasi akurasi dan menetapkan ambang (threshold) yang tepat.
 
   ## 📂 Struktur Folder
- FaceNet/
+ ```text
+Facenet/
 │
 ├── data/
 │   ├── train/
@@ -39,6 +40,8 @@ embedding.
 ├── utils_facenet.py
 ├── verify_cli.py
 ├── verify_pair.py
+```
 
 
 ## Analisis file kode
+
